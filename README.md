@@ -1,4 +1,4 @@
-# Libreri
+# Libreria
 
 Juliana Valencia Cataño y Paulina Velasquez Londoño
 
