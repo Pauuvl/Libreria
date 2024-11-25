@@ -23,3 +23,14 @@ Como ejecutarlo
 g++ main.cpp -o test
 2. Correr
 ./test
+
+Video: 
+
+https://eafit-my.sharepoint.com/:v:/g/personal/pvelasquel_eafit_edu_co/EQIdlQw4rYdBjyD6PlAFZkUBtxI2JTU3JGYGtkmjZE4myQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=WdnBrx
+
+
+https://we.tl/t-9K3iKRTzd5
+
+
+Pd:
+Profe buenas tardes, de parte de juliana Valencia, quiero aclarar que junto con mi compañera de equipo nos esforzamos mucho en esta entrega final que espero que compense un poco mi bajo desempeño durante el semestre y pueda tener una oportunidad de pasar la materia, de no ser así de verdad lo entiendo. En lo personal me gusta mucho la carrera y tengo muchas ganas de seguir aprendiendo, soy consciente que no he tenido un inicio fácil pero sé que es parte de mi proceso. muchas gracias por su atención
